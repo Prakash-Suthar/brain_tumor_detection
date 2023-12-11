@@ -1,0 +1,9 @@
+test: E:\AI_DS_ML\brain_tumor_detection\Yolov8\dataset\test\images
+train: E:\AI_DS_ML\brain_tumor_detection\Yolov8\dataset\train\images
+val: E:\AI_DS_ML\brain_tumor_detection\Yolov8\dataset\eval\images
+
+# Classes
+nc: 2
+names: ['negative','positive']
+
+save_dir: E:\AI_DS_ML\brain_tumor_detection\Yolov8
