@@ -7,3 +7,5 @@ CLI training : yolo detect train data=classData.yaml model=yolov8n.yaml epochs=1
 TASK (optional) is one of ('detect', 'segment', 'classify', 'pose')
 MODE (required) is one of ('train', 'val', 'predict', 'export', 'track', 'benchmark')
 ARGS (optional) are any number of custom 'arg=value' pairs like 'imgsz=320' that override defaults.
+
+# AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
