@@ -5,5 +5,8 @@ val: E:\AI_DS_ML\brain_tumor_detection\Yolov8\dataset\eval\images
 # Classes
 nc: 2
 names: ['negative','positive']
+scale:
+  n: [0.33, 0.25, 1024]
 
 save_dir: E:\AI_DS_ML\brain_tumor_detection\Yolov8
+
